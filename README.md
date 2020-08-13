@@ -1,2 +1,4 @@
 # tekn-cloud-computing
-AGUNG ADI SAPUTRA 173110012 TEKNOLOGI CLOUD COMPUTING
+Teknologi cloud computing
+Agung adi saputra
+173110012
